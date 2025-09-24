@@ -1,43 +1,75 @@
-# Hi there 👋, I'm Nikka  
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR9O2RFK8JzJz0Q/giphy.gif" width="600"/>
+</p>
 
-Welcome to my GitHub profile!  
-I'm passionate about **web development, design, and continuous learning**.  
-Here you’ll find projects, experiments, and contributions that reflect my journey. 🚀  
-
----
-
-### 🌱 About Me
-- 🔭 Currently working on: [Your Project or Tech Stack]
-- 🌱 Learning: React, Node.js, and Tailwind CSS
-- 💬 Ask me about: Frontend development & UI/UX design
-- ⚡ Fun fact: I drink way too much coffee ☕  
+<h1 align="center">✨ Hey, I'm Nikka — UI/UX Designer & Frontend Dev ✨</h1>
+<p align="center">I turn Figma dreams into React realities 🎨⚡</p>
 
 ---
 
-### 🛠️ Tech Stack
-Here are some of the tools and technologies I use:  
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 👩‍💻 About Me
+- 🎨 **UI/UX Designer** with a sharp eye for pixels and smooth user flows  
+- ⚛️ **Frontend Dev**: React • TailwindCSS • CSS magic  
+- 🛠️ Love prototyping in **Figma** & pushing pixels to production  
+- 🎬 Sometimes I drop memes into my workflow (keeps bugs away 🐛)
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
-
----
-
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+## 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,css,figma,js,ts,html,vite,git" />
+</p>
 
 ---
 
-✨ *Thanks for visiting my profile! Feel free to explore my repos and connect with me.*  
+## 🎭 My Style
+<p align="center">
+  <img src="https://media.giphy.com/media/26tknCqiJrBQG6bxC/giphy.gif" width="400"/>
+</p>
+
+> **Design is how it works.** Code is how it *breathes*.  
+> I build interfaces that don’t just look good — they *feel good*.  
+> Think **clean layouts**, **playful micro-interactions**, and **user-first flow**.
+
+---
+
+## 🌱 Currently
+- Designing ✏️ micro-interactions in Figma
+- Shipping 🚀 Tailwind-powered components
+- Experimenting 🎮 with creative UI patterns
+- Laughing at my own commits 🤡
+
+---
+
+## 🏆 GitHub Fun Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+## 😂 A Meme For You
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+  <br>
+  <i>"It works on my machine" — every dev ever</i>
+</p>
+
+---
+
+## 🌐 Let’s Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://dribbble.com/yourprofile"><img src="https://img.shields.io/badge/-Dribbble-pink?logo=dribbble&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-black?logo=react&logoColor=61DAFB&style=for-the-badge" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200"/>
+  <br>
+  <b>✨ Thanks for stopping by! ✨</b>
+</p>
