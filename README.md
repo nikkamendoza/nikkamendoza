@@ -54,7 +54,7 @@
   <img src="https://skillicons.dev/icons?i=react,vue,tailwind,css,figma,js,ts,html,vite,git,nodejs&theme=dark" />
 </div>
 
-### 🍄 Yes I'm Using This?
+### 🍄 Yes, I'm Using These?
 <div align="center">
   <img src="https://img.shields.io/badge/🎨-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/⭐-Adobe_Photoshop-FF61F5?style=for-the-badge&logo=adobe-xd&logoColor=white&labelColor=000000" />
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/🚀-Illustrator-FF6B6B?style=for-the-badge&logo=principle&logoColor=white&labelColor=000000" />
 </div>
 
-### ⭐ I'm Using This Also
+### ⭐ I'm Using These Too!
 <div align="center">
   <img src="https://img.shields.io/badge/🍄-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" />
   <img src="https://img.shields.io/badge/⭐-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=000000" />
@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/⭐-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000" />
 </div>
 
-### 🛠️ Development Tools? Yeah This
+### 🛠️ Development Tools? Yep, These
 <div align="center">
   <img src="https://img.shields.io/badge/🎮-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/🍄-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=000000" />
