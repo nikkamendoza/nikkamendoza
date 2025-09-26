@@ -141,7 +141,7 @@
     ╔══════════════════════════════════════════╗
     ║  "Use AI, let AI do the hard work!"      ║
     ║                                          ║
-    ║  — It's not being lazy, it's being smart! ║
+    ║  It's not being lazy, it's being smart!  ║
     ╚══════════════════════════════════════════╝
     </pre>
   </div>
@@ -180,10 +180,10 @@
     <div style="margin: 20px 0;">
       <pre style="color: #FFD700; font-family: 'Courier New', monospace; font-size: 12px; margin: 0;">
     ╔══════════════════════════════════════╗
-    ║  🚀 LET'S BUILD THE FUTURE! 🚀       ║
+    ║  🚀 LET'S BUILD THE FUTURE! 🚀      ║
     ║                                      ║
-    ║  ✨ Thanks for playing! ✨           ║
-    ║  🎯 Ready to start a new adventure? 🎯 ║
+    ║  ✨ Thanks for reading? ✨          ║
+    ║    Ready to start a new adventure?   ║
     ╚══════════════════════════════════════╝
       </pre>
     </div>
