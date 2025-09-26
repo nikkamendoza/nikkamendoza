@@ -14,12 +14,8 @@
   <img src="https://img.shields.io/badge/🧨-Wireframes-00FF00?style=for-the-badge&labelColor=000000&color=00FFFF" alt="Pixel Perfect" />
 </div>
 
-<div align="center" style="background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460); padding: 30px; border-radius: 15px; border: 4px solid #FF0000; margin: 20px 0; box-shadow: 0 0 25px rgba(255, 0, 0, 0.4); position: relative;">
-  <!-- Mario-style blocks -->
-  <div style="position: absolute; top: -10px; left: 20px; width: 20px; height: 20px; background: #FFD700; border: 2px solid #000; transform: rotate(45deg);"></div>
-  <div style="position: absolute; top: -10px; right: 20px; width: 20px; height: 20px; background: #FFD700; border: 2px solid #000; transform: rotate(45deg);"></div>
-  
-  <h1 style="color: #FF0000; text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.8); margin: 0; font-family: 'Courier New', monospace;">🍄HI? HELLOO?🍄</h1>
+<div align="center" style="background: #1a1a2e; padding: 30px; border-radius: 15px; border: 4px solid #FF0000; margin: 20px 0;">
+  <h1 style="color: #FF0000; margin: 0; font-family: 'Courier New', monospace;">🍄HI? HELLOO?🍄</h1>
   <p style="color: #FFD700; font-size: 18px; margin: 15px 0 0 0; font-weight: bold;"><em>"It's-a me! MEOW MEOWWW!"</em></p>
   
   <div style="margin-top: 20px;">
@@ -83,11 +79,8 @@
 ---
 
 ## 🍄 NIKKA'S DESIGN QUEST
-<div align="center" style="background: linear-gradient(45deg, #1a1a2e, #16213e, #0f3460); padding: 25px; border-radius: 15px; border: 4px solid #FF0000; margin: 20px 0; box-shadow: 0 0 20px rgba(255, 0, 0, 0.3); position: relative;">
-  <!-- Mario-style question blocks -->
-  <div style="position: absolute; top: -15px; left: 50%; transform: translateX(-50%); width: 30px; height: 30px; background: #FFD700; border: 3px solid #000; border-radius: 5px;"></div>
-  
-  <h3 style="color: #FFD700; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); margin-bottom: 20px; font-family: 'Courier New', monospace;">🍄 NIKKA'S DESIGN QUEST 🍄</h3>
+<div align="center" style="background: #1a1a2e; padding: 25px; border-radius: 15px; border: 4px solid #FF0000; margin: 20px 0;">
+  <h3 style="color: #FFD700; margin-bottom: 20px; font-family: 'Courier New', monospace;">🍄 NIKKA'S DESIGN QUEST 🍄</h3>
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 20px;">
     <div style="background: rgba(255, 0, 0, 0.1); padding: 15px; border-radius: 10px; border: 2px solid #FF0000; position: relative;">
@@ -132,11 +125,8 @@
 
 
 ## 💡 NIKKA'S WISDOM AND POWERUP TIPS
-<div align="center" style="background: linear-gradient(135deg, #1a1a2e, #16213e); padding: 25px; border-radius: 15px; border: 4px solid #FFD700; margin: 20px 0; box-shadow: 0 0 20px rgba(255, 215, 0, 0.4); position: relative;">
-  <!-- Mario-style star -->
-  <div style="position: absolute; top: -20px; left: 50%; transform: translateX(-50%); width: 40px; height: 40px; background: #FFD700; border: 3px solid #000; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 20px;">⭐</div>
-  
-  <div style="background: #0f0f23; padding: 20px; border-radius: 10px; border: 3px solid #FF0000; margin-top: 10px;">
+<div align="center" style="background: #1a1a2e; padding: 25px; border-radius: 15px; border: 4px solid #FFD700; margin: 20px 0;">
+  <div style="background: #0f0f23; padding: 20px; border-radius: 10px; border: 3px solid #FF0000;">
     <pre style="color: #FFD700; font-family: 'Courier New', monospace; font-size: 14px; margin: 0; text-align: center;">
     ╔══════════════════════════════════════════╗
     ║  "Use AI, let AI do the hard work!"      ║
@@ -168,14 +158,9 @@
 
 ---
 
-<div align="center" style="background: linear-gradient(135deg, #0f0f23, #1a1a2e, #16213e); padding: 30px; border-radius: 20px; border: 4px solid #FF0000; margin: 30px 0; box-shadow: 0 0 30px rgba(255, 0, 0, 0.5); position: relative;">
-  <!-- Mario-style castle elements -->
-  <div style="position: absolute; top: -20px; left: 20px; width: 30px; height: 30px; background: #FFD700; border: 3px solid #000; transform: rotate(45deg);"></div>
-  <div style="position: absolute; top: -20px; right: 20px; width: 30px; height: 30px; background: #FFD700; border: 3px solid #000; transform: rotate(45deg);"></div>
-  <div style="position: absolute; top: -20px; left: 50%; transform: translateX(-50%); width: 40px; height: 40px; background: #FFD700; border: 3px solid #000; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 24px;">🏰</div>
-  
-  <div style="background: rgba(255, 0, 0, 0.1); padding: 25px; border-radius: 15px; border: 3px solid #FF0000; margin-top: 10px;">
-    <h2 style="color: #FFD700; margin: 0 0 15px 0; text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.8); font-family: 'Courier New', monospace;">🍄 READY FOR THE NEXT LEVEL? 🍄</h2>
+<div align="center" style="background: #1a1a2e; padding: 30px; border-radius: 20px; border: 4px solid #FF0000; margin: 30px 0;">
+  <div style="background: rgba(255, 0, 0, 0.1); padding: 25px; border-radius: 15px; border: 3px solid #FF0000;">
+    <h2 style="color: #FFD700; margin: 0 0 15px 0; font-family: 'Courier New', monospace;">🍄 READY FOR THE NEXT LEVEL? 🍄</h2>
     
     <div style="margin: 20px 0;">
       <pre style="color: #FFD700; font-family: 'Courier New', monospace; font-size: 12px; margin: 0;">
