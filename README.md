@@ -1,6 +1,6 @@
 <!-- Super Mario Pixel Art Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=🍄+SUPER+NIKKA+BROS+🍄;🎮+UI/UX+DESIGNER+&+FRONTEND+DEV+🎮;⭐+CREATING+DIGITAL+WORLDS+⭐;🚀+LEVEL+UP+YOUR+EXPERIENCE+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=🍄+DESIGN+DEVELOPER+🍄;🎮+UI/UX+DESIGNER+🎮;⭐+CREATING+DIGITAL+WORLDS+⭐;🚀+FRONTEND+DEVELOPER+🚀" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -8,9 +8,10 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🍄-SUPER_DESIGNER-FF0000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Super Designer" />
-  <img src="https://img.shields.io/badge/⭐-FRONTEND_HERO-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" alt="Frontend Hero" />
-  <img src="https://img.shields.io/badge/🎮-PIXEL_PERFECT-00FF00?style=for-the-badge&labelColor=000000&color=00FF00" alt="Pixel Perfect" />
+  <img src="https://img.shields.io/badge/🍄-PROTOTYPE-FF0000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Super Designer" />
+  <img src="https://img.shields.io/badge/⭐-MOCKUPS-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" alt="Frontend Hero" />
+  <img src="https://img.shields.io/badge/🎮-TEMPLATE-00FF00?style=for-the-badge&labelColor=000000&color=00FF00" alt="Pixel Perfect" />
+  <img src="https://img.shields.io/badge/🧨-Wireframes-00FF00?style=for-the-badge&labelColor=000000&color=00FFFF" alt="Pixel Perfect" />
 </div>
 
 <div align="center" style="background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460); padding: 30px; border-radius: 15px; border: 4px solid #FF0000; margin: 20px 0; box-shadow: 0 0 25px rgba(255, 0, 0, 0.4); position: relative;">
@@ -18,8 +19,8 @@
   <div style="position: absolute; top: -10px; left: 20px; width: 20px; height: 20px; background: #FFD700; border: 2px solid #000; transform: rotate(45deg);"></div>
   <div style="position: absolute; top: -10px; right: 20px; width: 20px; height: 20px; background: #FFD700; border: 2px solid #000; transform: rotate(45deg);"></div>
   
-  <h1 style="color: #FF0000; text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.8); margin: 0; font-family: 'Courier New', monospace;">🍄 SUPER NIKKA BROS 🍄</h1>
-  <p style="color: #FFD700; font-size: 18px; margin: 15px 0 0 0; font-weight: bold;"><em>"It's-a me! UI/UX Designer & Frontend Developer!"</em></p>
+  <h1 style="color: #FF0000; text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.8); margin: 0; font-family: 'Courier New', monospace;">🍄HI? HELLOO?🍄</h1>
+  <p style="color: #FFD700; font-size: 18px; margin: 15px 0 0 0; font-weight: bold;"><em>"It's-a me! MEOW MEOWWW!"</em></p>
   
   <div style="margin-top: 20px;">
     <pre style="color: #FFD700; font-family: 'Courier New', monospace; font-size: 12px; line-height: 1.2;">
@@ -48,37 +49,23 @@
 
 ---
 
-## 🍄 POWER-UP ABILITIES
-<div align="center">
-  <img src="https://img.shields.io/badge/🍄-SUPER_DESIGNER-FF0000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Super Designer" />
-  <img src="https://img.shields.io/badge/⭐-FRONTEND_HERO-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" alt="Frontend Hero" />
-  <img src="https://img.shields.io/badge/🎮-PIXEL_PERFECT-00FF00?style=for-the-badge&labelColor=000000&color=00FF00" alt="Pixel Perfect" />
-</div>
-
-- 🍄 **Super Designer** - Level up your UI/UX with pixel-perfect precision and user-centered design  
-- ⭐ **Frontend Hero** - Jump through React, TailwindCSS, and modern web technologies like a pro  
-- 🛠️ **Design-to-Code Power** - Transform Figma prototypes into production-ready code with Mario-like precision  
-- 🚀 **Full-Stack Adventure** - Complete the quest from user research to final deployment
-
----
-
 ## 🎮 INVENTORY & POWER-UPS
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,css,figma,js,ts,html,vite,git,nodejs,nextjs,webpack&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,css,figma,js,ts,html,vite,git,nodejs&theme=dark" />
 </div>
 
 ### 🍄 Design Power-Ups
 <div align="center">
   <img src="https://img.shields.io/badge/🎨-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/⭐-Adobe_XD-FF61F5?style=for-the-badge&logo=adobe-xd&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/💰-Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/🚀-Principle-FF6B6B?style=for-the-badge&logo=principle&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/⭐-Adobe_Photoshop-FF61F5?style=for-the-badge&logo=adobe-xd&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/💰-Canva-F7B500?style=for-the-badge&logo=sketch&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🚀-Illustrator-FF6B6B?style=for-the-badge&logo=principle&logoColor=white&labelColor=000000" />
 </div>
 
 ### ⭐ Frontend Super Powers
 <div align="center">
   <img src="https://img.shields.io/badge/🍄-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" />
-  <img src="https://img.shields.io/badge/⭐-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/⭐-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/💰-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" />
   <img src="https://img.shields.io/badge/🚀-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/🎮-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
@@ -90,7 +77,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/🎮-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/🍄-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/⭐-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black&labelColor=000000" />
   <img src="https://img.shields.io/badge/💰-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000" />
 </div>
 
@@ -143,17 +129,6 @@
 
 ---
 
-## 🏆 HIGH SCORES & ACHIEVEMENTS
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff00&text_color=ffffff&border_color=00ff00" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-</div>
-
----
 
 ## 💡 MARIO'S WISDOM & POWER-UP TIPS
 <div align="center" style="background: linear-gradient(135deg, #1a1a2e, #16213e); padding: 25px; border-radius: 15px; border: 4px solid #FFD700; margin: 20px 0; box-shadow: 0 0 20px rgba(255, 215, 0, 0.4); position: relative;">
@@ -182,13 +157,10 @@
 
 ## 🌐 JOIN MARIO'S ADVENTURE - LET'S CONNECT!
 <div align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/">
+  <a href="https://www.linkedin.com/in/nikka-mendoza">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=000000" />
   </a>
-  <a href="https://dribbble.com/yourprofile">
-    <img src="https://img.shields.io/badge/-Dribbble-EA4C89?logo=dribbble&logoColor=white&style=for-the-badge&labelColor=000000" />
-  </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://portfolio-niks-mndzz.vercel.app">
     <img src="https://img.shields.io/badge/-Portfolio-000000?logo=react&logoColor=61DAFB&style=for-the-badge&labelColor=000000" />
   </a>
 </div>
